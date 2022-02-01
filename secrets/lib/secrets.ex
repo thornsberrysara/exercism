@@ -1,5 +1,4 @@
 defmodule Secrets do
-
   use Bitwise
 
   def secret_add(secret) do
